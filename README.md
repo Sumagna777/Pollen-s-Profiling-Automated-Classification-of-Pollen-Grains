@@ -1,7 +1,7 @@
 🌼## Pollen's Profiling: Automated Classification of Pollen Grains
 An innovative project using deep learning and image processing to automatically classify pollen grains based on their morphological features. Designed to support environmental monitoring, allergy diagnosis, and agricultural research, this system enables accurate, scalable, and efficient pollen grain identification.
 
-🚀** Project Overview
+🚀**Project Overview
 Pollen's Profiling automates the classification of pollen grains using a pipeline that includes:
 
 High-resolution microscopic image processing
@@ -14,7 +14,7 @@ Visualization and report generation
 
 This system can help environmental scientists, allergists, and agricultural researchers to rapidly identify pollen types from collected samples, with minimal manual intervention.
 
-📌** Key Scenarios
+📌**Key Scenarios
 1. 🌍 Environmental Monitoring
 Track biodiversity, analyze ecological trends, and monitor environmental changes by automating pollen classification in field samples.
 
